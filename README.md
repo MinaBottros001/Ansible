@@ -13,8 +13,7 @@ pip
 
 Install the requirements.txt file _(make sure you stand inside the directory that contains the requirements file)_
 
-```bash
-cd molecule/default
+
 
 pip install -r requirements.txt
 ```
